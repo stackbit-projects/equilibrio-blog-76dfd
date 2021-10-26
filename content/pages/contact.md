@@ -31,7 +31,7 @@ form_fields:
     label: >-
       Entiendo que este formulario almacena mi información enviada para así
       poder ser contactado.
-submit_label: Send Message
+submit_label: Enviar
 seo:
   title: Get in Touch
   description: This is the contact page
