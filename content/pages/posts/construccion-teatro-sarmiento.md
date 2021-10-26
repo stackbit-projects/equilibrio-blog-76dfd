@@ -1,11 +1,11 @@
 ---
 title: 'Construcción del Edificio Sarmiento '
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+  Antes de que el Teatro Sarmiento ocupara el lugar en el que ha permanecido
+  durante más de 90 años, existía una fábrica de ollas en medio del monte,
+  propiedad de doña Carolina Suelto, justo al frente del trapichal de doña
+  Dominga Tiesa, en donde tiempo después se construiría la Plaza de Mercado
+  Cubierto.
 date: '2021-10-02'
 thumb_img_path: /images/teatro-sarmiento-pic1.JPG
 thumb_img_alt: Foto Teatro Sarmiento
