@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: Muchas gracias!
 layout: page
 ---
 
