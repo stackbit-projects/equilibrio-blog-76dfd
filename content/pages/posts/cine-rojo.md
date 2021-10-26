@@ -38,8 +38,7 @@ seo:
       value: My Way to Relax in Nature and Stress Less
     - name: 'twitter:description'
       value: >-
-        The way I spend time out in nature can affect how much my physical and
-        mental health will recharge.
+        Cine Rojo
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
