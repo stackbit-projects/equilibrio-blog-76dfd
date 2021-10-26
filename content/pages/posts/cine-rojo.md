@@ -12,7 +12,7 @@ excerpt: >-
 date: '2021-10-05'
 thumb_img_path: /images/cine rojo.jpeg
 thumb_img_alt: Imagen - Teatro Sarmiento
-hide_header: true
+hide_header: false
 seo:
   title: My Way to Relax in Nature and Stress Less
   description: >-
