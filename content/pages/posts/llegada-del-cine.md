@@ -14,7 +14,7 @@ thumb_img_alt: Imagen - Teatro Sarmiento
 hide_header: true
 seo:
   title: La llegada del cine
-  description: La llegada del cine Ocean.
+  description: La llegada del cine.
   extra:
     - name: 'og:type'
       value: article
