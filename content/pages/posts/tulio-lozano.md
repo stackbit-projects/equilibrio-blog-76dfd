@@ -7,7 +7,7 @@ excerpt: >-
   historia del Teatro Sarmiento a mitad de siglo para llenarlo de magia e
   identidad con su sola presencia y particular forma de ser. 
 date: '2021-10-07'
-thumb_img_path: images/5.jpg
+thumb_img_path: /images/Tulio Lozano.jpeg
 thumb_img_alt: Foto - Tulio Lozada
 content_img_path: /images/teatro-sarmiento-pic2.jpg
 seo:
