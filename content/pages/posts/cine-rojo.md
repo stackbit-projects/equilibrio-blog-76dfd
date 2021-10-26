@@ -22,7 +22,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: My Way to Relax in Nature and Stress Less
+      value: Cine Rojo
       keyName: property
     - name: 'og:description'
       value: >-
