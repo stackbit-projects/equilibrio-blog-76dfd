@@ -8,7 +8,7 @@ excerpt: >-
   finalizaban las misas dominicales, dando a conocer la película y el precio de
   la boleta, que era de quince centavos para adultos, mientras que niños y niñas
   entraban a mitad de precio.
-date: '0002-01-09'
+date: '2021-01-09'
 thumb_img_path: /images/teatro_sarmiento.jpg
 thumb_img_alt: Imagen - Teatro Sarmiento
 hide_header: true
