@@ -25,7 +25,7 @@ form_fields:
   - input_type: textarea
     name: message
     label: Mensaje
-    default_value: Your message
+    default_value: Tu Mensaje
   - input_type: checkbox
     name: consent
     label: >-
