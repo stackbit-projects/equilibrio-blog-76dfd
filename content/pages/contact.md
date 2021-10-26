@@ -17,7 +17,7 @@ form_fields:
   - input_type: select
     name: subject
     label: Asunto
-    default_value: Please select
+    default_value: Selecciona un
     options:
       - Enviar felicitaciones
       - Poner una queja
