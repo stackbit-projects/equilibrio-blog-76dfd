@@ -1,10 +1,11 @@
 ---
 title: Cuando cae la noche
 excerpt: >-
-  Photography is the science, art and practice of creating durable images by
-  recording light or other electromagnetic radiation, either electronically by
-  means of an image sensor, or chemically by means of a light-sensitive material
-  such as photographic film.
+  Nuevas dinámicas sociales nocturnas se fueron gestando en torno al comercio y
+  los lugares de intercambio de esta Plaza de mercado, donde se adecuaron
+  espacios para que los jornaleros pudieran descansar después de un día arduo de
+  trabajo, ya que siempre han laborado descargando camiones desde las tres de la
+  mañana hasta casi medio día.
 date: '2021-10-03'
 thumb_img_path: /images/cuando cae la noche.jpeg
 thumb_img_alt: Foto - cuando cae la noche
