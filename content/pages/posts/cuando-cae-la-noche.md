@@ -1,6 +1,5 @@
 ---
 title: Cuando cae la noche
-subtitle: A interesting tale about Photography and me
 excerpt: >-
   Photography is the science, art and practice of creating durable images by
   recording light or other electromagnetic radiation, either electronically by
