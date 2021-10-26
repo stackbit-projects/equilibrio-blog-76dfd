@@ -19,7 +19,7 @@ form_fields:
     label: Asunto
     default_value: Please select
     options:
-      - Error on the site
+      - Enviar felicitaciones
       - Sponsorship
       - Other
   - input_type: textarea
