@@ -6,7 +6,7 @@ excerpt: >-
   requires pushing vegetation aside.
 date: '2019-10-01'
 thumb_img_path: /images/plaza_de_mercado.jpg
-thumb_img_alt: A man standing on a rock cliff overlooking a river
+thumb_img_alt: Imagen La Planeta
 content_img_path: images/1.jpg
 seo:
   title: Basic Rules For Walking In The Mountains
