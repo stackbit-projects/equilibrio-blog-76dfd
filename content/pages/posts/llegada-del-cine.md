@@ -25,7 +25,6 @@ seo:
     - name: 'og:description'
       value: >-
         La llegada del cine
-        Ocean.
       keyName: property
     - name: 'og:image'
       value: images/7.jpg
