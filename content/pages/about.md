@@ -29,6 +29,13 @@ seo:
       relativeUrl: true
 layout: page
 ---
+![](/images/equilibrio%20family.jpg)
+
 La Corporación Equilibrio es una organización sin ánimo de lucro compuesta por jóvenes profesionales que buscan dinamizar iniciativas y procesos sociales.
 
+![](/images/yeca.jpg)
+
 Surgió en el año 2016 por iniciativa de un grupo de jóvenes profesionales, hombres y mujeres, con la intención de poner en práctica los conocimientos y aprendizajes adquiridos a lo largo de su formación académica y experiencia profesional, y a través de ellos propiciar el surgimiento de dinámicas y procesos en distintos ámbitos de intervención e investigación (económico, social, cultural, ambiental, artístico, deportivo, laboral e institucional) que finalicen en relaciones y condiciones de mayor equilibrio social.
+
+![](/images/mario%20y%20karen.jpg)
+
