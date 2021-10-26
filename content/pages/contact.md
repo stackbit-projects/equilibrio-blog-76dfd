@@ -21,7 +21,7 @@ form_fields:
     options:
       - Enviar felicitaciones
       - Poner una queja
-      - Other
+      - Otro
   - input_type: textarea
     name: message
     label: Message
