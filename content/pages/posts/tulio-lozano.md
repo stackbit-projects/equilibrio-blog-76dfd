@@ -1,5 +1,5 @@
 ---
-title: 'Tulio Lozano, proyeccionista por antonomasia'
+title: Tulio Lozano
 subtitle: A cautionary tale about life in New York
 excerpt: >-
   The City of New York, usually called either New York City (NYC) or simply New
