@@ -9,7 +9,7 @@ excerpt: >-
 date: '2021-10-03'
 thumb_img_path: /images/cuando cae la noche.jpeg
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
-content_img_path: images/8.jpg
+content_img_path: /images/plaza-mercado-pic4.jpg.jpg
 seo:
   title: What Is Photography and What It Means To Me
   description: A interesting tale about Photography and me
