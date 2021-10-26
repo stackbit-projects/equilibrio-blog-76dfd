@@ -7,7 +7,7 @@ excerpt: >-
   con tambor y voz grave para anunciar las funciones a la hora en que
   finalizaban las misas dominicales, dando a conocer la película y el precio de
   la boleta, que era de quince centavos para adultos, mientras que niños y niñas
-  entraban a mitad de precio
+  entraban a mitad de precio.
 date: '2018-01-09'
 thumb_img_path: images/7.jpg
 thumb_img_alt: Icelandic horses
