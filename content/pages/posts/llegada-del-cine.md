@@ -37,7 +37,6 @@ seo:
     - name: 'twitter:description'
       value: >-
         La llegada del cine
-        Ocean.
     - name: 'twitter:image'
       value: images/7.jpg
       relativeUrl: true
