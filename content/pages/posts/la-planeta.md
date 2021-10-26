@@ -15,8 +15,7 @@ content_img_path: /images/Cap 2. Al interior de la Plaza. 02.jpg
 seo:
   title: La Planeta
   description: >-
-    Hiking refers to difficult walking through dense forest, undergrowth, or
-    bushes.
+    La Planeta
   extra:
     - name: 'og:type'
       value: article
@@ -26,8 +25,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+        La Planeta
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
@@ -39,8 +37,7 @@ seo:
       value: La Planeta
     - name: 'twitter:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+        La Planeta
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
