@@ -46,6 +46,7 @@ seo:
       value: images/4.jpg
       relativeUrl: true
 layout: post
+content_img_path: /images/teatro-sarmiento-pic2.jpg
 ---
 ![](/images/cine%20rojo-41827529.jpeg)
 
