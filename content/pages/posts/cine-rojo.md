@@ -10,7 +10,7 @@ excerpt: >-
   misterio que se le había asignado durante años, para pasar a ser fuertemente
   promocionadas sin reparo alguno. 
 date: '2019-03-24'
-thumb_img_path: images/4.jpg
+thumb_img_path: /images/cine rojo.jpeg
 thumb_img_alt: Imagen - Teatro Sarmiento
 hide_header: true
 seo:
