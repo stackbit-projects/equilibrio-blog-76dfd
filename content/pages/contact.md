@@ -12,7 +12,7 @@ form_fields:
   - input_type: email
     name: email
     label: Correo electrónico
-    default_value: Your email address
+    default_value: Tu Correo electrónico
     is_required: true
   - input_type: select
     name: subject
