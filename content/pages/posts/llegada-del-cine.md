@@ -13,14 +13,14 @@ thumb_img_path: /images/teatro_sarmiento.jpg
 thumb_img_alt: Imagen - Teatro Sarmiento
 hide_header: true
 seo:
-  title: Fragments of Iceland
+  title: La llegada del cine
   description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Fragments of Iceland
+      value: La llegada del cine
       keyName: property
     - name: 'og:description'
       value: >-
@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fragments of Iceland
+      value: La llegada del cine
     - name: 'twitter:description'
       value: >-
         Iceland is a Nordic country between the North Atlantic and the Arctic
