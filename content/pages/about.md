@@ -30,13 +30,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
+La **Corporación Equilibrio **es una organización sin ánimo de lucro compuesta por jóvenes profesionales que buscan dinamizar iniciativas y procesos sociales.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
-
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+Surgió en el año 2016 por iniciativa de un grupo de jóvenes profesionales, hombres y mujeres, con la intención de poner en práctica los conocimientos y aprendizajes adquiridos a lo largo de su formación académica y experiencia profesional, y a través de ellos propiciar el surgimiento de dinámicas y procesos en distintos ámbitos de intervención e investigación (económico, social, cultural, ambiental, artístico, deportivo, laboral e institucional) que finalicen en relaciones y condiciones de mayor equilibrio social.
