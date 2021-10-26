@@ -9,7 +9,7 @@ excerpt: >-
   la boleta, que era de quince centavos para adultos, mientras que niños y niñas
   entraban a mitad de precio.
 date: '2018-01-09'
-thumb_img_path: images/7.jpg
+thumb_img_path: /images/teatro_sarmiento.jpg
 thumb_img_alt: Icelandic horses
 hide_header: true
 seo:
