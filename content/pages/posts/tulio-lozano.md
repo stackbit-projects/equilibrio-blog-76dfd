@@ -12,7 +12,7 @@ thumb_img_alt: Foto - Tulio Lozada
 content_img_path: /images/teatro-sarmiento-pic2.jpg
 seo:
   title: Tulio Lozano
-  description: A cautionary tale about life in New York
+  description: Tulio Lozano
   extra:
     - name: 'og:type'
       value: article
@@ -21,7 +21,7 @@ seo:
       value: Tulio Lozano
       keyName: property
     - name: 'og:description'
-      value: A cautionary tale about life in New York
+      value: Tulio Lozano
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:title'
       value: Tulio Lozano
     - name: 'twitter:description'
-      value: A cautionary tale about life in New York
+      value: Tulio Lozano
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
