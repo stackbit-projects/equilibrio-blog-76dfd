@@ -10,7 +10,7 @@ excerpt: >-
   entraban a mitad de precio.
 date: '2018-01-09'
 thumb_img_path: /images/teatro_sarmiento.jpg
-thumb_img_alt: Imagen -
+thumb_img_alt: Imagen - Teatro Sarmiento
 hide_header: true
 seo:
   title: Fragments of Iceland
