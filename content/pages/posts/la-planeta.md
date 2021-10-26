@@ -13,7 +13,7 @@ thumb_img_path: /images/plaza_de_mercado.jpg
 thumb_img_alt: Imagen La Planeta
 content_img_path: /images/Cap 2. Al interior de la Plaza. 02.jpg
 seo:
-  title: Basic Rules For Walking In The Mountains
+  title: La Planeta
   description: >-
     Hiking refers to difficult walking through dense forest, undergrowth, or
     bushes.
@@ -22,7 +22,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Basic Rules For Walking In The Mountains
+      value: La Planeta
       keyName: property
     - name: 'og:description'
       value: >-
@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Basic Rules For Walking In The Mountains
+      value: La Planeta
     - name: 'twitter:description'
       value: >-
         Hiking refers to difficult walking through dense forest, undergrowth, or
