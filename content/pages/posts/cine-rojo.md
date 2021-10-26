@@ -16,8 +16,7 @@ hide_header: false
 seo:
   title: Cine Rojo
   description: >-
-    The way I spend time out in nature can affect how much my physical and
-    mental health will recharge.
+    Cine Rojo
   extra:
     - name: 'og:type'
       value: article
