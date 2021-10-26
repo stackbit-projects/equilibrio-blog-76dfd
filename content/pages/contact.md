@@ -10,7 +10,7 @@ form_fields:
     default_value: Tu nombre
     is_required: true
   - input_type: email
-    name: email
+    name: Correo electrónico
     label: Correo electrónico
     default_value: Tu Correo electrónico
     is_required: true
