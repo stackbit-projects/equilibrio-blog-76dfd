@@ -1,9 +1,13 @@
 ---
 title: La Planeta
 excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+  Todos los seres vivos que habitan el mundo tienen como principal función la
+  provisión de los alimentos para sí mismos y sus gru- pos. Los seres humanos
+  fundamentaron las relaciones sociales y formas de interacción gracias a las
+  actividades que realizaban para sobrevivir y dentro de ellas estaban la caza y
+  la agricultura; poco a poco se gestaron intercambios de productos entre
+  distintos grupos, lo que permitió no sólo el acceso a diversos alimentos, sino
+  también la adquisición de nuevos conocimientos y saberes culturales.
 date: '2021-10-01'
 thumb_img_path: /images/plaza_de_mercado.jpg
 thumb_img_alt: Imagen La Planeta
