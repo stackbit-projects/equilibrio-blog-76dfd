@@ -8,7 +8,7 @@ excerpt: >-
   distinction between rooms and indoor and outdoor space.
 date: '2021-10-02'
 thumb_img_path: /images/teatro-sarmiento-pic1.JPG
-thumb_img_alt: A red fox sitting on a meadow
+thumb_img_alt: Foto Teatro Sarmiento
 content_img_path: images/10.jpg
 seo:
   title: Fox Village In Japan
