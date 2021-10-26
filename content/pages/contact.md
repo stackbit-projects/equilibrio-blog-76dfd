@@ -11,7 +11,7 @@ form_fields:
     is_required: true
   - input_type: email
     name: email
-    label: Email
+    label: Correo electrónico
     default_value: Your email address
     is_required: true
   - input_type: select
