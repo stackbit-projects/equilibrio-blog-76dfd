@@ -60,5 +60,4 @@ seo:
       relativeUrl: true
 layout: contact
 ---
-
-To get in touch fill the form below.
+Por favor diligencia el siguiente formulario
