@@ -50,7 +50,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Corporación Equilibrio. Todos los derechos reservados"
+        "content": "&copy; Corporación Equilibrio. Todos los derechos reservados."
     },
     "domain": "https://equilibrio-blog.netlify.app",
     "favicon": "/images/favicon.png"
