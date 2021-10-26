@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: My Way to Relax in Nature and Stress Less
+      value: Cine Rojo
     - name: 'twitter:description'
       value: >-
         Cine Rojo
