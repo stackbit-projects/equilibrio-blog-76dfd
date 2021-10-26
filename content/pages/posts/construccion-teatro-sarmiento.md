@@ -11,7 +11,7 @@ thumb_img_path: /images/teatro-sarmiento-pic1.JPG
 thumb_img_alt: Foto Teatro Sarmiento
 content_img_path: /images/teatro-sarmiento-pic4.JPG
 seo:
-  title: Fox Village In Japan
+  title: Construcción del Edificio Sarmiento
   description: >-
     Apparently, Japan is covered in magical and irresistibly cute animal
     sanctuaries.
@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Fox Village In Japan
+      value: Construcción del Edificio Sarmiento
       keyName: property
     - name: 'og:description'
       value: >-
@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fox Village In Japan
+      value: Construcción del Edificio Sarmiento
     - name: 'twitter:description'
       value: >-
         Apparently, Japan is covered in magical and irresistibly cute animal
