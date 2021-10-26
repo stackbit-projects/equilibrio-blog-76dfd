@@ -14,7 +14,7 @@ thumb_img_alt: Imagen - Teatro Sarmiento
 hide_header: true
 seo:
   title: La llegada del cine
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  description: La llegada del cine Ocean.
   extra:
     - name: 'og:type'
       value: article
@@ -24,7 +24,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
+        La llegada del cine
         Ocean.
       keyName: property
     - name: 'og:image'
@@ -37,7 +37,7 @@ seo:
       value: La llegada del cine
     - name: 'twitter:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
+        La llegada del cine
         Ocean.
     - name: 'twitter:image'
       value: images/7.jpg
