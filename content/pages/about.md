@@ -1,6 +1,6 @@
 ---
 title: Un poco de nosotros
-img_path: images/about.jpg
+img_path: /images/yeca-54845520.jpg
 seo:
   title: About Me
   description: A page about me and my work
