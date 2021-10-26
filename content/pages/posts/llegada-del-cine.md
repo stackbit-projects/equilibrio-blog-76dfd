@@ -1,9 +1,13 @@
 ---
 title: Fragments of Iceland
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+  En este escenario de esplendor urbanístico arribó por primera vez el cine a
+  Tuluá de la mano del señor Gustavo Colmenares, quien en 1919 instala un
+  aparato para ver cine mudo en el Teatro Variedades. Se valía de un pregonero
+  con tambor y voz grave para anunciar las funciones a la hora en que
+  finalizaban las misas dominicales, dando a conocer la película y el precio de
+  la boleta, que era de quince centavos para adultos, mientras que niños y niñas
+  entraban a mitad de precio
 date: '2018-01-09'
 thumb_img_path: images/7.jpg
 thumb_img_alt: Icelandic horses
