@@ -2,7 +2,6 @@
 title: Muchas gracias!
 layout: page
 ---
+Gracias por contactarnos, nos pondremos en contacto contigo pronto.
 
-Thank you for contacting me! I will get back in touch with you soon.
-
-**Have a great day!**
+**Ten un buen día!**
