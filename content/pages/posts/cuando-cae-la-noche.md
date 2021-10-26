@@ -12,7 +12,7 @@ thumb_img_alt: Foto - cuando cae la noche
 content_img_path: /images/plaza-mercado-pic4.jpg.jpg
 seo:
   title: What Is Photography and What It Means To Me
-  description: A interesting tale about Photography and me
+  description: cuando cae la noche
   extra:
     - name: 'og:type'
       value: article
@@ -21,7 +21,7 @@ seo:
       value: What Is Photography and What It Means To Me
       keyName: property
     - name: 'og:description'
-      value: A interesting tale about Photography and me
+      value: cuando cae la noche
       keyName: property
     - name: 'og:image'
       value: images/8.jpg
@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:title'
       value: What Is Photography and What It Means To Me
     - name: 'twitter:description'
-      value: A interesting tale about Photography and me
+      value: cuando cae la noche
     - name: 'twitter:image'
       value: images/8.jpg
       relativeUrl: true
