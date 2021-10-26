@@ -1,5 +1,5 @@
 ---
-title: Fragments of Iceland
+title: La llegada del cine
 excerpt: >-
   En este escenario de esplendor urbanístico arribó por primera vez el cine a
   Tuluá de la mano del señor Gustavo Colmenares, quien en 1919 instala un
