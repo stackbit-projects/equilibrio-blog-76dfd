@@ -11,14 +11,14 @@ thumb_img_path: /images/cuando cae la noche.jpeg
 thumb_img_alt: Foto - cuando cae la noche
 content_img_path: /images/plaza-mercado-pic4.jpg.jpg
 seo:
-  title: What Is Photography and What It Means To Me
+  title: cuando cae la noche
   description: cuando cae la noche
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: What Is Photography and What It Means To Me
+      value: cuando cae la noche
       keyName: property
     - name: 'og:description'
       value: cuando cae la noche
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: What Is Photography and What It Means To Me
+      value: cuando cae la noche
     - name: 'twitter:description'
       value: cuando cae la noche
     - name: 'twitter:image'
