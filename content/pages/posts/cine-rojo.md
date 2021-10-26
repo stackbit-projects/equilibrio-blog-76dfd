@@ -1,8 +1,14 @@
 ---
 title: Cine Rojo
 excerpt: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+  Auspiciado y visitado secretamente por un grupo selecto de personas, en la
+  época de los 90, por la parte trasera del Bar Central, existió una garita de
+  juego que sirvió como madriguera para aquellos que gozaban de las películas
+  pornográficas que traían consigo escenas con contenido altamente violento y
+  lenguaje inapropiado para el momento. Con el paso del tiempo, la proyección de
+  películas de esta categoría fue mutando en su condición de clandestinidad y
+  misterio que se le había asignado durante años, para pasar a ser fuertemente
+  promocionadas sin reparo alguno. 
 date: '2019-03-24'
 thumb_img_path: images/4.jpg
 thumb_img_alt: A man fishing in a lake
