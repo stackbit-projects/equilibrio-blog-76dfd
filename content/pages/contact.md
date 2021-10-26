@@ -20,7 +20,7 @@ form_fields:
     default_value: Please select
     options:
       - Enviar felicitaciones
-      - Sponsorship
+      - Poner una queja
       - Other
   - input_type: textarea
     name: message
