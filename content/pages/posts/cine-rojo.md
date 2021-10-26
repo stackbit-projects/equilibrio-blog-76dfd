@@ -11,7 +11,7 @@ excerpt: >-
   promocionadas sin reparo alguno. 
 date: '2019-03-24'
 thumb_img_path: images/4.jpg
-thumb_img_alt: A man fishing in a lake
+thumb_img_alt: Imagen - Teatro Sarmiento
 hide_header: true
 seo:
   title: My Way to Relax in Nature and Stress Less
