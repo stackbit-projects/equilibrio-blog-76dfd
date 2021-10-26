@@ -1,8 +1,5 @@
 ---
 title: Cine Rojo
-subtitle: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
 excerpt: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
