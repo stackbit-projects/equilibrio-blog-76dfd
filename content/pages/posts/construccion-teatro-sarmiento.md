@@ -13,8 +13,7 @@ content_img_path: /images/teatro-sarmiento-pic4.JPG
 seo:
   title: Construcción del Edificio Sarmiento
   description: >-
-    Apparently, Japan is covered in magical and irresistibly cute animal
-    sanctuaries.
+    Construcción del Edificio Sarmiento
   extra:
     - name: 'og:type'
       value: article
@@ -24,8 +23,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+        Construcción del Edificio Sarmiento
       keyName: property
     - name: 'og:image'
       value: images/10.jpg
@@ -37,8 +35,7 @@ seo:
       value: Construcción del Edificio Sarmiento
     - name: 'twitter:description'
       value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+        Construcción del Edificio Sarmiento
     - name: 'twitter:image'
       value: images/10.jpg
       relativeUrl: true
