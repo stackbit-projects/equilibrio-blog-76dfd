@@ -11,14 +11,14 @@ thumb_img_path: /images/Tulio Lozano.jpeg
 thumb_img_alt: Foto - Tulio Lozada
 content_img_path: /images/teatro-sarmiento-pic2.jpg
 seo:
-  title: Few Things I Wish I Knew Before I Moved to New York
+  title: Tulio Lozano
   description: A cautionary tale about life in New York
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Few Things I Wish I Knew Before I Moved to New York
+      value: Tulio Lozano
       keyName: property
     - name: 'og:description'
       value: A cautionary tale about life in New York
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Few Things I Wish I Knew Before I Moved to New York
+      value: Tulio Lozano
     - name: 'twitter:description'
       value: A cautionary tale about life in New York
     - name: 'twitter:image'
