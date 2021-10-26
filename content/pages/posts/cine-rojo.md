@@ -14,7 +14,7 @@ thumb_img_path: /images/cine rojo.jpeg
 thumb_img_alt: Imagen - Teatro Sarmiento
 hide_header: false
 seo:
-  title: My Way to Relax in Nature and Stress Less
+  title: Cine Rojo
   description: >-
     The way I spend time out in nature can affect how much my physical and
     mental health will recharge.
