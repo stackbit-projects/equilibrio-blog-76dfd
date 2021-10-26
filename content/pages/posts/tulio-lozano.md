@@ -2,11 +2,10 @@
 title: Tulio Lozano
 subtitle: proyeccionista por antonomasia
 excerpt: >-
-  The City of New York, usually called either New York City (NYC) or simply New
-  York (NY), is the most populous city in the United States. With an estimated
-  2017 population of 8,622,698 distributed over a land area of about 302.6
-  square miles (784 km2), New York is also the most densely populated major city
-  in the United States.
+  Familiar de las reconocidas “Chapetas” de Tuluá, hombre simpático, trabajador,
+  comprometido y acostumbrado a andar con los pies descalzos, llega a la
+  historia del Teatro Sarmiento a mitad de siglo para llenarlo de magia e
+  identidad con su sola presencia y particular forma de ser. 
 date: '2021-10-07'
 thumb_img_path: images/5.jpg
 thumb_img_alt: Brooklyn Bridge at daytime
