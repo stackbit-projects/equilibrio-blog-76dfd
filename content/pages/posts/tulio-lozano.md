@@ -8,7 +8,7 @@ excerpt: >-
   identidad con su sola presencia y particular forma de ser. 
 date: '2021-10-07'
 thumb_img_path: images/5.jpg
-thumb_img_alt: Brooklyn Bridge at daytime
+thumb_img_alt: Foto - Tulio Lozada
 content_img_path: /images/teatro-sarmiento-pic2.jpg
 seo:
   title: Few Things I Wish I Knew Before I Moved to New York
