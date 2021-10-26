@@ -9,7 +9,7 @@ excerpt: >-
 date: '2021-10-02'
 thumb_img_path: /images/teatro-sarmiento-pic1.JPG
 thumb_img_alt: Foto Teatro Sarmiento
-content_img_path: images/10.jpg
+content_img_path: /images/teatro-sarmiento-pic4.JPG
 seo:
   title: Fox Village In Japan
   description: >-
