@@ -26,8 +26,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        The way I spend time out in nature can affect how much my physical and
-        mental health will recharge.
+        Cine Rojo
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
